@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-30T13:36:32.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="mVgIRuNtKElqP4FkCaYc" version="13.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-30T13:38:38.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="I-Te9xoYnur3nYXMbhYJ" version="13.2.4" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="920" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,16 +160,16 @@
           <mxGeometry x="642.5" y="730" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x4elbkg3u_GMeMl-YBxs-46" value="" style="outlineConnect=0;fontColor=#333333;fillColor=#6881B3;strokeColor=#6881B3;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.vault;" vertex="1" parent="1">
-          <mxGeometry x="250" y="590" width="62" height="78" as="geometry" />
+          <mxGeometry x="270" y="520" width="62" height="78" as="geometry" />
         </mxCell>
         <mxCell id="x4elbkg3u_GMeMl-YBxs-47" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#6881B3;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.identity_and_access_management;" vertex="1" parent="1">
-          <mxGeometry x="160" y="525" width="60" height="55" as="geometry" />
+          <mxGeometry x="170" y="425" width="60" height="55" as="geometry" />
         </mxCell>
         <mxCell id="x4elbkg3u_GMeMl-YBxs-50" value="&lt;span style=&quot;color: rgb(35 , 47 , 62) ; font-size: 10px ; font-weight: 700&quot;&gt;Identity and Access Management&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="537.5" width="80" height="42.5" as="geometry" />
+          <mxGeometry x="90" y="437.5" width="80" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="x4elbkg3u_GMeMl-YBxs-51" value="&lt;span style=&quot;color: rgb(35 , 47 , 62) ; font-size: 10px ; font-weight: 700&quot;&gt;Vault&lt;br&gt;Secrets and certificates management&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="620" width="80" height="42.5" as="geometry" />
+          <mxGeometry x="190" y="550" width="80" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
